@@ -9,10 +9,10 @@ This project aims to build and evaluate machine learning models to predict borro
 - Default rate prediction is challenging due to highly imbalanced data (91.4% non-default vs. 8.6% default) 
 - Core problem: How can machine learning models improve default prediction while handling severe class imbalance?
 4. Data Description
-- Source:
-- Numbers of observation
-- Key value
-- Time period
+- Source: Lending Club
+- Numbers of observation: 10.000+ loan records
+- Key value: Loan status
+- Time period: 2007 to 2018
 5. Methodology
 - Data Preprocessing: Missing value treatment, Encoding categorical variables, Feature selection, Handling multicollinearity, Addressing imbalance using SMOTE + Over/Under Sampling 
 - Models Implemented: Logistic Regression, Decision Tree, Random Forest, XGBoost, CatBoost & LightGBM and Stacking Ensemble
