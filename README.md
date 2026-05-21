@@ -1,0 +1,1 @@
+Some basic and normal project tell about how can we use Python to build some ML models which predict the future value for probability of risk or bankruptcy. These project also used to contribute to sceience research competition.
